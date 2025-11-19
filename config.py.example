@@ -1,0 +1,8 @@
+# config.py.example
+
+# OpenWeatherMap API Key
+API_KEY = "YOUR_API_KEY"
+
+# Location coordinates
+LATITUDE = "YOUR_LATITUDE"
+LONGITUDE = "YOUR_LONGITUDE"
