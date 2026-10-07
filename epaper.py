@@ -24,8 +24,7 @@ if os.path.exists(libdir):
 
 from waveshare_epd import epd2in13_V3
 
-# --- Constants ---
-# Update Intervals (in seconds)
+# update intervals (seconds)
 FULL_REFRESH_INTERVAL = 43200  # 12 hours
 WEATHER_UPDATE_INTERVAL = 1800  # 30 minutes
 SYSTEM_UPDATE_INTERVAL = 10
